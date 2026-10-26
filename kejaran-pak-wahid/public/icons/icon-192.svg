@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#9a3412"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="38" fill="url(#bg)"/>
+  <!-- Lorong Sekolah Accent -->
+  <path d="M20 165 L72 95 L120 95 L172 165 Z" fill="#fed7aa" opacity="0.25"/>
+  <!-- Siswa SMA Avatar (Putih Abu-abu) -->
+  <circle cx="72" cy="66" r="20" fill="#fde047"/>
+  <path d="M52 60 Q72 40 92 60 Z" fill="#1e293b"/>
+  <!-- Baju Putih & Dasi Abu -->
+  <rect x="54" y="88" width="36" height="36" rx="8" fill="#ffffff"/>
+  <polygon points="72,90 67,108 72,115 77,108" fill="#64748b"/>
+  <!-- Celana Abu-abu -->
+  <rect x="56" y="120" width="32" height="22" rx="4" fill="#64748b"/>
+  <!-- Pak Wahid Kumis & Kacamata Icon -->
+  <circle cx="130" cy="64" r="22" fill="#fdba74"/>
+  <!-- Peci / Rambut Pak Wahid -->
+  <rect x="110" y="38" width="40" height="14" rx="4" fill="#1c1917"/>
+  <!-- Kacamata Tegas -->
+  <rect x="115" y="56" width="12" height="9" rx="2" fill="none" stroke="#1c1917" stroke-width="3"/>
+  <rect x="133" y="56" width="12" height="9" rx="2" fill="none" stroke="#1c1917" stroke-width="3"/>
+  <line x1="127" y1="60" x2="133" y2="60" stroke="#1c1917" stroke-width="3"/>
+  <!-- Kumis Tebal Pak Wahid -->
+  <path d="M117 74 Q130 68 143 74 Q130 80 117 74 Z" fill="#1c1917"/>
+  <!-- Peluit / Tanda Seru -->
+  <text x="96" y="172" font-family="Arial, sans-serif" font-weight="900" font-size="22" text-anchor="middle" fill="#ffffff">PAK WAHID!</text>
+</svg>
